@@ -1,5 +1,5 @@
-# Invoice-Extraction-bot
-# Invoice Parsing RAG
+# Invoice-Parsing-bot
+
 
 ## Overview
 This project demonstrates how **Retrieval-Augmented Generation (RAG)** can enhance traditional document parsing by combining the pattern recognition capabilities of **machine learning** with the contextual understanding of **large language models (LLMs)**. This approach can handle variations in invoice formats and extract information with high accuracy.
